@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://pskarlas.github.io/"/>
+  <link href="https://pskarlas.github.io/blog/"/>
   <updated>2017-01-25T19:34:43.000Z</updated>
-  <id>https://pskarlas.github.io/</id>
+  <id>https://pskarlas.github.io/blog/</id>
   
   <author>
     <name>Panagiotis Skarlas</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://pskarlas.github.io/2017/01/25/hello-world/"/>
-    <id>https://pskarlas.github.io/2017/01/25/hello-world/</id>
+    <link href="https://pskarlas.github.io/blog/2017/01/25/hello-world/"/>
+    <id>https://pskarlas.github.io/blog/2017/01/25/hello-world/</id>
     <published>2017-01-25T19:34:43.000Z</published>
     <updated>2017-01-25T19:34:43.000Z</updated>
     

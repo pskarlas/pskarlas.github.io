@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pskarlas.github.io/"/>
-  <updated>2017-01-25T19:34:43.000Z</updated>
+  <updated>2017-03-12T15:43:58.000Z</updated>
   <id>https://pskarlas.github.io/</id>
   
   <author>
@@ -16,26 +16,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://pskarlas.github.io/2017/01/25/hello-world/"/>
-    <id>https://pskarlas.github.io/2017/01/25/hello-world/</id>
-    <published>2017-01-25T19:34:43.000Z</published>
-    <updated>2017-01-25T19:34:43.000Z</updated>
+    <title>Why i decided to learn Software Development</title>
+    <link href="https://pskarlas.github.io/2017/03/12/Why-i-decided-to-learn-software-development/"/>
+    <id>https://pskarlas.github.io/2017/03/12/Why-i-decided-to-learn-software-development/</id>
+    <published>2017-03-12T15:30:47.000Z</published>
+    <updated>2017-03-12T15:43:58.000Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<h2 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h2><p>I’ll start off by saying that Programming/Software development is a form of art. It is a highly creative process that blends in analytical and problem solving skills with a strong “no-quit” mindset.</p>
+<h3 id="Am-i-curious"><a href="#Am-i-curious" class="headerlink" title="Am i curious?"></a>Am i curious?</h3><p>It all started when i was browsing web apps couple of years back and i was curious, asking myself “How can they do that?” or “How does that work?”. This curiosity led me to find out the ‘how’, try to dive deeper and understand, and as you can guess the only way i could accomplish that was through start learning about software development. I began making small steps by building small websites and thats when i understood that i take a really serious joy in programming! Why? Because i become a craftsman, an artist who can take hard logic and use it creatively to produce something unique and often intriguing. </p>
+<h3 id="Creativity"><a href="#Creativity" class="headerlink" title="Creativity"></a>Creativity</h3><p>Creativity, the root of Software Development, matters a lot to me, is what makes my life fun and is what gets me excited each and everyday when i wake up in the morning. Software development simply embraces creativity, it is truly a creative problem itself. So what more could i ask for? i simply decided to get serious about software development and start the process of never-ending learning.</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is 
+      &lt;h2 id=&quot;Intro&quot;&gt;&lt;a href=&quot;#Intro&quot; class=&quot;headerlink&quot; title=&quot;Intro&quot;&gt;&lt;/a&gt;Intro&lt;/h2&gt;&lt;p&gt;I’ll start off by saying that Programming/Software develop
     
     </summary>
     
